@@ -1,1 +1,10 @@
 Hello world!
+
+Trying to do another commit. 
+
+After editing file, needed to "stage" the file using the command <git add filename.txt>.
+Next, will "commit" the changes using <git commit -m 'note'>.
+
+Let's see how this goes! 
+
+Remember to use <git status> to see what's up as I go :)
