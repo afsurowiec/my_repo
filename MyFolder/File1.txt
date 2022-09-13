@@ -1,1 +1,4 @@
 This is a file in my folder.
+
+To add all these files in this folder to git, need to use the command <git add MyFolder/* >
+Then can commit.
