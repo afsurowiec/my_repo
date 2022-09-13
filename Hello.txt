@@ -10,3 +10,5 @@ Let's see how this goes!
 Remember to use <git status> to see what's up as I go :)
 
 Ok, trying another commit to make sure that I have a good handle on this process.
+
+This is me making a change in the new branch.
